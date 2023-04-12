@@ -1,4 +1,4 @@
- #!/usr/bin/node
+#!/usr/bin/node
 
 // calculate the number of arguments passed to the script using 'process.argv.length - 2'
 // sbtracting 2 to exclude the 'node' command and the name of the script itself

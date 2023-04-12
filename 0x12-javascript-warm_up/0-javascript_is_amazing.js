@@ -5,4 +5,4 @@
 const myVar = 'JavaScript is amazing';
 
 // console.log() function is used to print the value of myVar to the console.
-console.log(myVar)
+console.log(myVar);
